@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/learnit.admin/static/js/main.ada4c801.chunk.js",
+    "main.js.map": "/learnit.admin/static/js/main.ada4c801.chunk.js.map",
+    "runtime-main.js": "/learnit.admin/static/js/runtime-main.6a63ee69.js",
+    "runtime-main.js.map": "/learnit.admin/static/js/runtime-main.6a63ee69.js.map",
+    "static/css/2.ddfdcc9a.chunk.css": "/learnit.admin/static/css/2.ddfdcc9a.chunk.css",
+    "static/js/2.3038f460.chunk.js": "/learnit.admin/static/js/2.3038f460.chunk.js",
+    "static/js/2.3038f460.chunk.js.map": "/learnit.admin/static/js/2.3038f460.chunk.js.map",
+    "index.html": "/learnit.admin/index.html",
+    "precache-manifest.f09088b4dd3221fa8cea731f66f8c05a.js": "/learnit.admin/precache-manifest.f09088b4dd3221fa8cea731f66f8c05a.js",
+    "service-worker.js": "/learnit.admin/service-worker.js",
+    "static/css/2.ddfdcc9a.chunk.css.map": "/learnit.admin/static/css/2.ddfdcc9a.chunk.css.map",
+    "static/js/2.3038f460.chunk.js.LICENSE.txt": "/learnit.admin/static/js/2.3038f460.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/learnit.admin/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/learnit.admin/static/media/fa-solid-900.f3a7d3b5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a63ee69.js",
+    "static/css/2.ddfdcc9a.chunk.css",
+    "static/js/2.3038f460.chunk.js",
+    "static/js/main.ada4c801.chunk.js"
+  ]
+}
