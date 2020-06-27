@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "860963293ef31433570da3585af69da9",
+    "revision": "0f5fecacce26531789ea7a42307d477c",
     "url": "/learnit.admin/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learnit.admin/static/js/2.3038f460.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ccdad4cd74a6064ca99f",
-    "url": "/learnit.admin/static/js/main.ada4c801.chunk.js"
+    "revision": "4174ead563ee6dd3b92c",
+    "url": "/learnit.admin/static/js/main.e4ccabd7.chunk.js"
   },
   {
     "revision": "8a7b544f0135a0dbad0a",

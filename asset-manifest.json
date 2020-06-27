@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/learnit.admin/static/js/main.ada4c801.chunk.js",
-    "main.js.map": "/learnit.admin/static/js/main.ada4c801.chunk.js.map",
+    "main.js": "/learnit.admin/static/js/main.e4ccabd7.chunk.js",
+    "main.js.map": "/learnit.admin/static/js/main.e4ccabd7.chunk.js.map",
     "runtime-main.js": "/learnit.admin/static/js/runtime-main.6a63ee69.js",
     "runtime-main.js.map": "/learnit.admin/static/js/runtime-main.6a63ee69.js.map",
     "static/css/2.ddfdcc9a.chunk.css": "/learnit.admin/static/css/2.ddfdcc9a.chunk.css",
     "static/js/2.3038f460.chunk.js": "/learnit.admin/static/js/2.3038f460.chunk.js",
     "static/js/2.3038f460.chunk.js.map": "/learnit.admin/static/js/2.3038f460.chunk.js.map",
     "index.html": "/learnit.admin/index.html",
-    "precache-manifest.f09088b4dd3221fa8cea731f66f8c05a.js": "/learnit.admin/precache-manifest.f09088b4dd3221fa8cea731f66f8c05a.js",
+    "precache-manifest.9c18a3fa12e5338b434c355f83ff1613.js": "/learnit.admin/precache-manifest.9c18a3fa12e5338b434c355f83ff1613.js",
     "service-worker.js": "/learnit.admin/service-worker.js",
     "static/css/2.ddfdcc9a.chunk.css.map": "/learnit.admin/static/css/2.ddfdcc9a.chunk.css.map",
     "static/js/2.3038f460.chunk.js.LICENSE.txt": "/learnit.admin/static/js/2.3038f460.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6a63ee69.js",
     "static/css/2.ddfdcc9a.chunk.css",
     "static/js/2.3038f460.chunk.js",
-    "static/js/main.ada4c801.chunk.js"
+    "static/js/main.e4ccabd7.chunk.js"
   ]
 }
